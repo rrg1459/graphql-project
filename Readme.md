@@ -59,7 +59,7 @@ mutation {
   createAuthor (firstName: "asqsaasas")
 }
 ```
-## Consejos finales del blog de apollographql
+## Consejos finales del blog de apollo graphql
 
 Acabamos de pasar por la mecánica de modularizar el código de su servidor. Aquí hay algunos consejos adicionales que pueden ser útiles para descubrir cómo dividir su base de código:
 
