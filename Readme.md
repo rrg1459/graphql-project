@@ -19,11 +19,13 @@ Para poder ejecutar el servidor:
 
  $ `node index.js`
 
-Agregar "type": "module", en package.json para habilitar la importación de módulos en node.
+_Agregar_ `"type": "module"` _, en package.json para habilitar la importación de módulos en node._
 
-Los resolvers son funciones que nos van a permitir devolver "algo"
+_Los resolvers son funciones que nos van a permitir devolver "algo"._
 
-Con Ctrl + Espacio se puedeb ver las variables disponibles para los queries y mutaciones
+_Con_ **Ctrl + Espacio** _se pueden ver las variables disponibles para los queries y mutaciones._
+
+Para consultar el servidor en el navegador:
 
 http://localhost:4000
 
